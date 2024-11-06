@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: #333333;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
+/*javascript to apply this class*/
+
+#secret{
+    display:block;
+}
+
+#lights_off{
+    display:none;
+}
